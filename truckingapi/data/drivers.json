@@ -1,0 +1,112 @@
+[
+  {
+    "id": "D-3001",
+    "firstName": "John",
+    "lastName": "Smith",
+    "status": "DRIVING",
+    "assignedTruckUnit": "1201",
+    "homeTerminal": "Omaha, NE",
+    "phone": "402-555-0101",
+    "currentLoadId": "L-2001",
+    "currentLoadRef": "REF-2001"
+  },
+  {
+    "id": "D-3002",
+    "firstName": "Maria",
+    "lastName": "Garcia",
+    "status": "DRIVING",
+    "assignedTruckUnit": "1202",
+    "homeTerminal": "Lincoln, NE",
+    "phone": "402-555-0102",
+    "currentLoadId": "L-2002",
+    "currentLoadRef": "REF-2002"
+  },
+  {
+    "id": "D-3003",
+    "firstName": "Brian",
+    "lastName": "Lee",
+    "status": "DRIVING",
+    "assignedTruckUnit": "1203",
+    "homeTerminal": "Des Moines, IA",
+    "phone": "515-555-0103",
+    "currentLoadId": "L-2003",
+    "currentLoadRef": "REF-2003"
+  },
+  {
+    "id": "D-3004",
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "status": "DRIVING",
+    "assignedTruckUnit": "1204",
+    "homeTerminal": "Topeka, KS",
+    "phone": "785-555-0104",
+    "currentLoadId": "L-2004",
+    "currentLoadRef": "REF-2004"
+  },
+  {
+    "id": "D-3005",
+    "firstName": "Ahmed",
+    "lastName": "Khan",
+    "status": "DRIVING",
+    "assignedTruckUnit": "1205",
+    "homeTerminal": "Council Bluffs, IA",
+    "phone": "712-555-0105",
+    "currentLoadId": "L-2005",
+    "currentLoadRef": "REF-2005"
+  },
+  {
+    "id": "D-3006",
+    "firstName": "Samantha",
+    "lastName": "Reed",
+    "status": "DRIVING",
+    "assignedTruckUnit": "1206",
+    "homeTerminal": "Fargo, ND",
+    "phone": "701-555-0106",
+    "currentLoadId": "L-2006",
+    "currentLoadRef": "REF-2006"
+  },
+  {
+    "id": "D-3007",
+    "firstName": "Tyler",
+    "lastName": "Nguyen",
+    "status": "DRIVING",
+    "assignedTruckUnit": "1207",
+    "homeTerminal": "Eau Claire, WI",
+    "phone": "715-555-0107",
+    "currentLoadId": "L-2007",
+    "currentLoadRef": "REF-2007"
+  },
+  {
+    "id": "D-3008",
+    "firstName": "Olivia",
+    "lastName": "Bennett",
+    "status": "ON_DUTY",
+    "assignedTruckUnit": "1208",
+    "homeTerminal": "Omaha, NE",
+    "phone": "402-555-0108",
+    "currentLoadId": "L-2010",
+    "currentLoadRef": "REF-2010"
+  },
+  {
+    "id": "D-3009",
+    "firstName": "Caleb",
+    "lastName": "Wright",
+    "status": "ON_DUTY",
+    "assignedTruckUnit": "1209",
+    "homeTerminal": "Lincoln, NE",
+    "phone": "402-555-0109",
+    "currentLoadId": "L-2011",
+    "currentLoadRef": "REF-2011"
+  },
+  {
+    "id": "D-3010",
+    "firstName": "Noah",
+    "lastName": "Peterson",
+    "status": "OFF_DUTY",
+    "assignedTruckUnit": null,
+    "homeTerminal": "Council Bluffs, IA",
+    "phone": "712-555-0110",
+    "currentLoadId": null,
+    "currentLoadRef": null
+  }
+]

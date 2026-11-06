@@ -1,0 +1,6 @@
+RewriteEngine On
+
+# Route /api/trucks or /api/trucks/T-1001 to server.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ server.php [QSA,L]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "C-4001",
+    "name": "Acme Foods",
+    "city": "Omaha",
+    "state": "NE",
+    "primaryLane": "Omaha, NE → Madison, WI",
+    "avgLoadsPerWeek": 14,
+    "contactName": "Sarah Miller",
+    "contactPhone": "402-555-0201"
+  },
+  {
+    "id": "C-4002",
+    "name": "Midwest Plastics",
+    "city": "Lincoln",
+    "state": "NE",
+    "primaryLane": "Lincoln, NE → Boise, ID",
+    "avgLoadsPerWeek": 7,
+    "contactName": "Tom Anderson",
+    "contactPhone": "402-555-0202"
+  },
+  {
+    "id": "C-4003",
+    "name": "Farm Supply Co.",
+    "city": "Des Moines",
+    "state": "IA",
+    "primaryLane": "Des Moines, IA → Springfield, MO",
+    "avgLoadsPerWeek": 6,
+    "contactName": "Lisa Carter",
+    "contactPhone": "515-555-0203"
+  },
+  {
+    "id": "C-4004",
+    "name": "Heartland Retail Group",
+    "city": "Topeka",
+    "state": "KS",
+    "primaryLane": "Topeka, KS → Peoria, IL",
+    "avgLoadsPerWeek": 9,
+    "contactName": "Kevin Johnson",
+    "contactPhone": "785-555-0204"
+  },
+  {
+    "id": "C-4005",
+    "name": "River Valley Cold Storage",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "primaryLane": "Council Bluffs, IA → Duluth, MN",
+    "avgLoadsPerWeek": 5,
+    "contactName": "Amanda Lee",
+    "contactPhone": "712-555-0205"
+  },
+  {
+    "id": "C-4006",
+    "name": "Prairie Ag Products",
+    "city": "Fargo",
+    "state": "ND",
+    "primaryLane": "Fargo, ND → Rapid City, SD",
+    "avgLoadsPerWeek": 4,
+    "contactName": "Matt Olson",
+    "contactPhone": "701-555-0206"
+  },
+  {
+    "id": "C-4007",
+    "name": "Northern Building Supply",
+    "city": "Eau Claire",
+    "state": "WI",
+    "primaryLane": "Eau Claire, WI → Joplin, MO",
+    "avgLoadsPerWeek": 6,
+    "contactName": "Rachel Nguyen",
+    "contactPhone": "715-555-0207"
+  },
+  {
+    "id": "C-4008",
+    "name": "Great Plains Steel",
+    "city": "Salina",
+    "state": "KS",
+    "primaryLane": "Salina, KS → La Crosse, WI",
+    "avgLoadsPerWeek": 8,
+    "contactName": "Mark Spencer",
+    "contactPhone": "785-555-0208"
+  },
+  {
+    "id": "C-4009",
+    "name": "Central Packaging",
+    "city": "Kearney",
+    "state": "NE",
+    "primaryLane": "Kearney, NE → Mankato, MN",
+    "avgLoadsPerWeek": 7,
+    "contactName": "Hannah Reed",
+    "contactPhone": "308-555-0209"
+  },
+  {
+    "id": "C-4010",
+    "name": "Ozark Distribution",
+    "city": "Rolla",
+    "state": "MO",
+    "primaryLane": "Rolla, MO → Grand Forks, ND",
+    "avgLoadsPerWeek": 3,
+    "contactName": "Derek Shaw",
+    "contactPhone": "573-555-0210"
+  },
+  {
+    "id": "C-4011",
+    "name": "Frontier Logistics",
+    "city": "Cheyenne",
+    "state": "WY",
+    "primaryLane": "Cheyenne, WY → Ames, IA",
+    "avgLoadsPerWeek": 4,
+    "contactName": "Brittany Cole",
+    "contactPhone": "307-555-0211"
+  },
+  {
+    "id": "C-4012",
+    "name": "Highland Lumber",
+    "city": "Bemidji",
+    "state": "MN",
+    "primaryLane": "Bemidji, MN → Hays, KS",
+    "avgLoadsPerWeek": 2,
+    "contactName": "Jacob Hill",
+    "contactPhone": "218-555-0212"
+  },
+  {
+    "id": "C-4013",
+    "name": "Iron Ridge Manufacturing",
+    "city": "Marquette",
+    "state": "MI",
+    "primaryLane": "Marquette, MI → Stillwater, OK",
+    "avgLoadsPerWeek": 2,
+    "contactName": "Nina Patel",
+    "contactPhone": "906-555-0213"
+  },
+  {
+    "id": "C-4014",
+    "name": "Dakota Equipment",
+    "city": "Watertown",
+    "state": "SD",
+    "primaryLane": "Watertown, SD → Columbia, MO",
+    "avgLoadsPerWeek": 3,
+    "contactName": "Chris Wallace",
+    "contactPhone": "605-555-0214"
+  }
+]

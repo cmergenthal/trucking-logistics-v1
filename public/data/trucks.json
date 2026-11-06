@@ -1,0 +1,62 @@
+[
+  {
+    "id": "T-1001",
+    "unitNumber": "1201",
+    "make": "Freightliner",
+    "model": "Cascadia",
+    "year": 2021,
+    "status": "ON_THE_ROAD",
+    "currentLocation": "Omaha, NE",
+    "driverName": "John Smith",
+    "lat": 41.2565,
+    "lng": -95.9345
+  },
+  {
+    "id": "T-1002",
+    "unitNumber": "1202",
+    "make": "Volvo",
+    "model": "VNL 760",
+    "year": 2020,
+    "status": "AVAILABLE",
+    "currentLocation": "Lincoln, NE",
+    "driverName": null,
+    "lat": 40.8136,
+    "lng": -96.7026
+  },
+  {
+    "id": "T-1003",
+    "unitNumber": "1203",
+    "make": "Kenworth",
+    "model": "T680",
+    "year": 2019,
+    "status": "IN_SHOP",
+    "currentLocation": "Shop – Omaha, NE",
+    "driverName": "Maria Garcia",
+    "lat": 41.2565,
+    "lng": -95.9345
+  },
+  {
+    "id": "T-1004",
+    "unitNumber": "1204",
+    "make": "Peterbilt",
+    "model": "579",
+    "year": 2018,
+    "status": "ON_THE_ROAD",
+    "currentLocation": "Des Moines, IA",
+    "driverName": "Brian Lee",
+    "lat": 41.5868,
+    "lng": -93.625
+  },
+  {
+    "id": "T-1005",
+    "unitNumber": "1205",
+    "make": "International",
+    "model": "LT",
+    "year": 2017,
+    "status": "OUT_OF_SERVICE",
+    "currentLocation": "Yard – Council Bluffs, IA",
+    "driverName": null,
+    "lat": 41.2619,
+    "lng": -95.8608
+  }
+]

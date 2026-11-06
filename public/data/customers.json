@@ -1,0 +1,52 @@
+[
+  {
+    "id": "C-3001",
+    "name": "Acme Foods",
+    "city": "Omaha",
+    "state": "NE",
+    "primaryLane": "Omaha, NE → Chicago, IL",
+    "avgLoadsPerWeek": 15,
+    "contactName": "Sarah Miller",
+    "contactPhone": "402-555-0201"
+  },
+  {
+    "id": "C-3002",
+    "name": "Midwest Plastics",
+    "city": "Lincoln",
+    "state": "NE",
+    "primaryLane": "Lincoln, NE → Denver, CO",
+    "avgLoadsPerWeek": 8,
+    "contactName": "Tom Anderson",
+    "contactPhone": "402-555-0202"
+  },
+  {
+    "id": "C-3003",
+    "name": "Farm Supply Co.",
+    "city": "Des Moines",
+    "state": "IA",
+    "primaryLane": "Des Moines, IA → St. Louis, MO",
+    "avgLoadsPerWeek": 6,
+    "contactName": "Lisa Carter",
+    "contactPhone": "515-555-0203"
+  },
+  {
+    "id": "C-3004",
+    "name": "Heartland Retail Group",
+    "city": "Kansas City",
+    "state": "MO",
+    "primaryLane": "Kansas City, MO → Omaha, NE",
+    "avgLoadsPerWeek": 10,
+    "contactName": "Kevin Johnson",
+    "contactPhone": "816-555-0204"
+  },
+  {
+    "id": "C-3005",
+    "name": "River Valley Cold Storage",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "primaryLane": "Council Bluffs, IA → Minneapolis, MN",
+    "avgLoadsPerWeek": 5,
+    "contactName": "Amanda Lee",
+    "contactPhone": "712-555-0205"
+  }
+]
